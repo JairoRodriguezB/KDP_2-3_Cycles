@@ -20,13 +20,13 @@ This project uses Python and graph theory to:
 - KDP_project_JRB.ipynb: Jupyter Notebook containing the code, analysis, and visualizations for the project.
 
 **Table of Contents**
-1. Introduction: Overview of the problem, goals, and the use of cycles in kidney paired donation.
-2. Loading and Analyzing Data: Description of the dataset (JSON format) and its initial analysis, including recipient distribution.
-3. Graph Construction: Steps for creating and visualizing the donor-recipient compatibility graph.
-4. Cycle Detection: Methods to identify 2-node and 3-node cycles in the graph and their properties.
-5. Optimization Model: Mathematical formulation for selecting optimal cycles, including constraints and objectives.
-6. Results and Selected Cycles: Summary of the optimization results, including selected 2-node and 3-node cycles.
-7. Node Analysis: Identification of nodes included or excluded in the solution, with visualizations of their distribution.
-8. Finding Specific Nodes: A function to locate specific nodes and their cycles within the solution.
-9. Visualizations: Graphical summaries of the included and excluded nodes by donor and recipient type.
-10. Conclusions: Key findings, including insights into the inclusion/exclusion of nodes and cycle optimization.
+1. Introduction
+2. Loading and Analyzing Data
+3. Graph Construction
+4. Cycle Detection
+5. Optimization Model
+6. Results and Selected Cycles
+7. Node Analysis
+8. Finding Specific Nodes
+9. Visualizations
+10. Conclusions
