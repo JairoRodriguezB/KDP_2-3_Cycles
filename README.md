@@ -18,4 +18,4 @@ This project uses Python and graph theory to:
 
 **File Contents**
 - KDP_project_JRB.ipynb: Jupyter Notebook containing the code, analysis, and visualizations for the project.
-</div>
+
